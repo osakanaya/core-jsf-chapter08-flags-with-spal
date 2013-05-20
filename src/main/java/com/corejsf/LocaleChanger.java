@@ -5,7 +5,6 @@ import java.util.Locale;
 
 import javax.enterprise.context.SessionScoped;
 import javax.faces.context.FacesContext;
-import javax.faces.event.ActionEvent;
 import javax.inject.Named;
 
 @Named
